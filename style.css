@@ -1,0 +1,120 @@
+body{
+    padding:20px;
+}
+*{
+    font-family: "Lato";
+}
+
+#content{
+    
+    margin: 0 6%;
+}
+
+#intro{
+    margin: 0 9% ;
+    margin-top:6%;
+}
+
+#heading{
+    padding:2%;
+    margin-top: 9%;
+  
+}
+
+#process{
+    text-align: center;
+    margin: 0 9% ;
+    
+ }
+
+#features{
+    margin: 0 9% ;
+    margin-top:10%;
+}
+
+
+#features-heading{
+    text-align: center;
+}
+
+.customization{
+    margin-top:9%;
+}
+
+
+.icon-process{
+    
+    font-size:24px;
+    color: rgb(125, 53, 191);
+    padding:10px;
+    border:2px solid rgb(125, 53, 191);
+    border-radius: 50%;
+    width: 50px;
+    height:60px;
+    margin:0 auto;
+}
+
+#hdlp{
+      margin: 0 8% ;
+      margin-top:16%;
+}
+
+#hdlp-text{
+    text-align:right;
+}
+
+#transparency{
+    margin: 0 8% ;
+    margin-top:16%;
+}
+
+#nutrition{
+    margin: 0 8% ;
+    margin-top:16%;
+}
+
+#extra{
+    text-align:center;
+    margin-top:16%;
+    padding:5px;
+}
+
+#card{
+    text-align:center;
+}
+
+#card p{
+    display:inline;
+}
+
+#card{
+    background-color: Gray;
+    padding:20px;
+    border-radius:5px;
+    margin-top:16%;
+}
+
+#tomorrow-special{
+    text-align: center;
+    margin-top:16%;
+    padding:5px;
+}
+
+#delivery{
+    text-align:center;
+    margin-top:16%;
+    padding:5px;
+}
+
+#newsletter{
+    margin-top:9%;
+    background-color: Gray;
+    padding:20px;
+    border-radius:5px;
+}
+
+.footer{
+    margin: 0 8% ;
+    margin-top:9%;
+    padding:5px;
+}
